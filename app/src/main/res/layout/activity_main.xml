@@ -18,7 +18,7 @@
         android:id="@+id/startImage"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="跳过 3"
+        android:text="加载中"
         android:textSize="20dp"
         android:textColor="#FFFF"
         android:layout_marginRight="20dp"

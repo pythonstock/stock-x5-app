@@ -221,7 +221,7 @@ public class Home extends AppCompatActivity {
                 }
             }
         });
-        mWebView.loadUrl("http://debugtbs.qq.com");
+        mWebView.loadUrl("http://news.qq.com");
 
     }
 
