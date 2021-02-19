@@ -1,5 +1,9 @@
 # -x5-webview
 
+
+https://github.com/xujimu/-x5-webview
+
+
 介绍:
 ====
       集成了腾讯x5,添加了启动图和倒计时,启动图过后就是一个全屏webview了,类似于HBuilder X里面的
